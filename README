@@ -1,0 +1,11 @@
+So here it is. Again, I did it my way, which is, most likely, not the best one. Easy to use:
+
+Get the jar-File and type the following in the command prompt:
+
+java -jar CreateJson.jar input.txt output.txt
+
+you can name those two files either way you want. The outputfile will be generated if it doesn't already exists.
+
+If you have any questions, feel free to ask.
+
+Cheers Marc
